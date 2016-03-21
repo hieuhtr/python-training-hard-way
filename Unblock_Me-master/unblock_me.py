@@ -5,7 +5,6 @@
 # Description: Fully functional level 1 of the "Unlock Me" application
 
 # Importing the graphics and time modules
-import time
 
 import grid
 from graphics import *
