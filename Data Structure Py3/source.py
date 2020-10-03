@@ -10,7 +10,7 @@ num_courses = 0
 total_points = 0
 done = False
 while not done:
-    grade = input()
+    grade = input('Enter grade: ')
     if grade == '':
         done = True
     elif grade not in points.keys():
